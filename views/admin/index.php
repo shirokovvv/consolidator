@@ -4,7 +4,7 @@
 use app\assets\AppAsset;
 
 AppAsset::register($this);
-$this->title = 'Административка';
+$this->title = 'Административная часть';
 ?>
 
 <div>
